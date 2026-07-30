@@ -83,7 +83,7 @@ python scripts/make_slim.py                 # 3) 런타임 검증 밴드 재생�
 ## 설치와 사용
 
 ```bash
-git clone https://github.com/kimsh-1/gn-voice.git
+git clone https://github.com/gongnyang/gn-voice.git
 cd gn-voice && bash install.sh   # 스킬·에이전트를 ~/.claude 아래에 연결
 ```
 
